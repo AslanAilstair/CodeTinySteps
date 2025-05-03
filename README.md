@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Aslan </h1>
+<h1 align="left">Hello World 👋, I'm Aslan </h1>
 <h3 align="left">Developer • Creator • Learner</h3>
 
 ---
@@ -8,6 +8,8 @@
 I'm a passionate developer who loves to explore new technologies and build cool stuff.  
 Specialized in front-end, full-stack, game development, and digital design.  
 Currently working on Python projects, web apps, and automation tools.
+
+### 🌟 Fun FactI’m passionate about medieval RPGs and dream of building my own game world one day! 🎮
 
 ---
 
