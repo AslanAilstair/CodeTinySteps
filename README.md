@@ -9,7 +9,8 @@ I'm a passionate developer who loves to explore new technologies and build cool 
 Specialized in front-end, full-stack, game development, and digital design.  
 Currently working on Python projects, web apps, and automation tools.
 
-### 🌟 Fun FactI’m passionate about medieval RPGs and dream of building my own game world one day! 🎮
+### 🌟 Fun Fact
+I’m passionate about medieval RPGs and dream of building my own game world one day! 🎮
 
 ---
 
