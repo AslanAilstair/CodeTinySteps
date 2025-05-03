@@ -33,7 +33,10 @@ Currently working on Python projects, web apps, and automation tools.
 
 ---
 
-### 🐍 GitHub Activity Snake (Optional)
+###
 
-```html
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/AslanAilstair/AslanAilstair/output/snake.svg" alt="Snake animation" />
+
+###
