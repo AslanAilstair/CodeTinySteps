@@ -30,22 +30,6 @@ Currently working on Unity projects, web apps, and automation tools.
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=photoshop&logoColor=white" height="35" />
 </div>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AslanAilstair&show_icons=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AslanAilstair&layout=compact&theme=dracula&hide_border=false" height="150" />
-</div>
-
----
-
-### 🎯 Featured Projects
-
-- 🎮 [Horror Game Prototype in Unity](https://github.com/nullbyteops/unity-horror-game)
-- 📦 [React Portfolio Generator](https://github.com/nullbyteops/portfolio-builder)
-- ⚙️ [Python Automation Scripts](https://github.com/nullbyteops/python-tools)
 
 ---
 
