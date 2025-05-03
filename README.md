@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aslan (aka nullbyteops)</h1>
-<h3 align="center">Developer • Creator • Learner</h3>
+<h1 align="left">Hi 👋, I'm Aslan </h1>
+<h3 align="left">Developer • Creator • Learner</h3>
 
 ---
 
