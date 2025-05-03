@@ -35,6 +35,6 @@ Currently working on Python projects, web apps, and automation tools.
 
 ###
 
-<img src="https://raw.githubusercontent.com/AslanAilstair/AslanAilstair/output/snake.svg" alt="GitHub Snake" />
+<img src="https://raw.githubusercontent.com/AslanAilstair/CodeTinySteps/output/snake.svg" alt="GitHub Snake" />
 
 ###
