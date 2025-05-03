@@ -7,7 +7,7 @@
 
 I'm a passionate developer who loves to explore new technologies and build cool stuff.  
 Specialized in front-end, full-stack, game development, and digital design.  
-Currently working on Unity projects, web apps, and automation tools.
+Currently working on Python projects, web apps, and automation tools.
 
 ---
 
